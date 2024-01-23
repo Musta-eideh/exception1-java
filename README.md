@@ -14,6 +14,7 @@ As exceções são usadas para lidar com situações imprevistas e garantir que 
 
 ## Roadmap
 Na branch "master" (1) e na branch (2) estão realizadas formas de semântica incorreta com o que condiz com o "código limpo", vejamos o que cada uma exemplifica: 
+    
     1. Começamos com a solução " Muito ruim " da qual utiliza a lógica de validação na classe principal.
     
     2. Faremos a segunda solução " Ruim " que irá utilizar o método retornando String
